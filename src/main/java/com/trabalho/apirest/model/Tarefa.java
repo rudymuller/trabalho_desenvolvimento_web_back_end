@@ -38,7 +38,7 @@ public class Tarefa {
 		return dataEntrega;
 	}
 	public void setDataEntrega(LocalDate dataEntrega) {
-		dataEntrega = dataEntrega;
+		this.dataEntrega = dataEntrega;
 	}
 	public String getResponsavel() {
 		return responsavel;
